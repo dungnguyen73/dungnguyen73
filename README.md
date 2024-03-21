@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Tan Dung</h1>
 
 <div align = center> 
-![Alt Text](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtbjVvcXdzancyazRsbjNzYXRzNTdkMms3ZDJramp3ZGlvdjl0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif)
+<iframe src="https://giphy.com/embed/CuuSHzuc0O166MRfjt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pudgypenguins-pudgy-penguin-penguins-CuuSHzuc0O166MRfjt">via GIPHY</a></p>
 </div>
 
 <h3>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <strong> About me:</strong>  
 </h3>
 <h3 align="center">I'm a third-year student majoring in Computer Science.</h3> <br/>
-- 🔭 I’m currently focusing on my learning in school. <br/>
+- 🔭 I’m currently focusing on my learning at HCMUT <br/>
 - 🤔 I’m looking forward to gaining hands-on experience in practical projects.<br/>
 - 🌱 I have a fundamental understanding of DSA, Discrete Math. <br/>
 
