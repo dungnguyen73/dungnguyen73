@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 <h3 align="left" margin = "20 0 0 0">:mailbox: Contact:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ngtandung/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ngtandung/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/tduq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tduq/" height="30" width="40" /></a>
+<a href="https://leetcode.com/Tduq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/tduq/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left" margin = "20 0 0 0">:roller_coaster: Languages and Tools:</h3>
