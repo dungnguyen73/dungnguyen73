@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Tan Dung</h1>
 
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVtbjVvcXdzancyazRsbjNzYXRzNTdkMms3ZDJramp3ZGlvdjl0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" align = "center"/>
+<div align = "center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGJtNnlzeHNkaWxuemg4eGVoYmVhOWtpY3ViaDFrc3ltcWJ6eWsyNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" />
+</div>
 <h3>
 :information_desk_person:
 <strong> About me:</strong>  
