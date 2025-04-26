@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 :information_desk_person:
 <strong> About me:</strong>  
 </h3>
-<h3 align="center">I'm a third-year student majoring in Computer Science.</h3> <br/>
-- 🔭 I’m currently focusing on my learning at HCMUT <br/>
+<h3 align="center">I'm a final-year student majoring in Computer Science, in HCMUT.</h3> <br/>
+<!-- - 🔭 I’m currently focusing on my learning at HCMUT <br/>
 - 🤔 I’m looking forward to gaining hands-on experience in practical projects through an internship.<br/>
-- 🌱 I have a fundamental understanding of DSA, OOP, Discrete Math, Calculus, OS, ComputerNetwork, etc... <br/>
+- 🌱 I have a fundamental understanding of DSA, OOP, Discrete Math, Calculus, OS, ComputerNetwork, etc... <br/> -->
 
 
 <h3 align="left" margin = "20 0 0 0">:mailbox: Contact:</h3>
